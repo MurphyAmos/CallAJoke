@@ -12,7 +12,7 @@ import json, requests, os , sys
 #						     #
 #	##### = section identifier 		     #
 #                                                    #
-#                                                    #
+#                                                 -MA#
 ######################################################
 class randomJokeApi:
 	def getJoke():
